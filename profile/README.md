@@ -12,3 +12,5 @@ Whether or not you've always wanted to play D&D but never had the attention span
 # [NFT.Storage on the Front-end](https://github.com/DnDnDiffusion/Front-end/blob/main/utils/web3utils.js)
 
 > In order to provide immutable NFT storage, we used IPFS and NFT.Storage's JavaScript API.
+
+## [Figma UX YouTube Video](https://youtu.be/CDu1zgMQ4fU)
